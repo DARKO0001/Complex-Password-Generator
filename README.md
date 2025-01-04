@@ -1,2 +1,6 @@
 ﻿# Complex-Password-Generator
-test
+
+
+#usage
+  py
+    

@@ -21,7 +21,7 @@ def length():
         try:
             # check
             user_input = int(user_input)
-            # Check > 11
+            # Check > 8
             if user_input < 8:
                 print("Password length must be at least 8. Please try again.")
                 continue

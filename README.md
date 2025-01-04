@@ -3,7 +3,10 @@ hi
 
 
 
-# Darko :
-  y
+# Installation
+
+    Just Donwload the file
+    
 or
-  z
+
+    git clone it
